@@ -5,7 +5,7 @@
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=500&height=60&lines=ML+Engineer;Backend+Developer)
 
   <p>
-  <a href="www.linkedin.com/in/daniel-popoola-942aa8216" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/daniel-popoola" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   </p>
 
   <p align="center">
