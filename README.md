@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=500&height=60&lines=AI+Engineer;Backend+Developer)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=500&height=60&lines=AI+Engineer;Software+Engineer)
 
   <p>
   <a href="https://www.linkedin.com/in/daniel-popoola-942aa8216/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a Backend and ML Engineer passionate about building intelligent, data-driven systems that connect infrastructure, automation, and decision-making.
+I’m a Software and ML Engineer passionate about building intelligent, data-driven systems that connect infrastructure, automation, and decision-making.
 
 - 🚀 Working on personal projects
 - 🌱 Always exploring applications of machine learning in real-world.
