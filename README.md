@@ -16,11 +16,11 @@
 
 ## 👨‍💻 About Me
 
-I’m a Software and ML Engineer passionate about building intelligent, data-driven systems that connect infrastructure, automation, and decision-making.
+I’m an AI Engineer passionate about building intelligent, data-driven systems that connect infrastructure, automation, and decision-making.
 
-- 🚀 Working on personal projects
-- 🌱 Always exploring applications of machine learning in real-world.
-- 💡 Believe in simple solutions to complex problems
+- Working on personal projects
+- Always exploring applications of AI engineering in real-world.
+- Believe in simple solutions to complex problems
 
 ## 🛠️ Tech Stack
 
