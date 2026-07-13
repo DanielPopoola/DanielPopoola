@@ -18,7 +18,7 @@
 
 I’m a software engineer passionate about building intelligent, data-driven systems that connect infrastructure, automation, and decision-making.
 
-- Currently working on ![Cenor AI](https://github.com/DanielPopoola/cenor-ai)
+- Currently working on [Cenor AI](https://github.com/DanielPopoola/cenor-ai)
 - Always exploring applications of AI engineering in real-world.
 - Believe in simple solutions to complex problems
 
